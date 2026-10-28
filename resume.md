@@ -1,18 +1,12 @@
 # Resume
 
+Name: Yiqiao Qi
 
+University: Northeastern University
 
-## Education
+Major: Computer Science and Game Development
 
-Northeastern University
+Expected Graduation: 2030
 
-Computer Science and Game Development
-
-
-
-## Skills
-
-* Python
-* Godot
-* Unity
+## 
 
