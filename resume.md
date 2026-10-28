@@ -1,8 +1,8 @@
-\# Resume
+# Resume
 
 
 
-\## Education
+## Education
 
 Northeastern University
 
@@ -10,7 +10,7 @@ Computer Science and Game Development
 
 
 
-\## Skills
+## Skills
 
 * Python
 * Godot
