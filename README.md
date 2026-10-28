@@ -1,4 +1,7 @@
 ## Hi there 👋
+# Hello, I'm Yiqiao!
+
+I'm a Computer Science and Game Development student at Northeastern University.
 
 <!--
 **akiraq55777/akiraq55777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
